@@ -1,0 +1,6 @@
+homepage: "https://stylight.com"
+documentation: "https://partner.stylight.com"
+versions:
+  # Initial version
+  - sha: 621c3c27c8575d564b2581d915798a7c9bc77cf2
+    changeNotes: Initial release
